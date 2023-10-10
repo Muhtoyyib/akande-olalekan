@@ -336,9 +336,13 @@ main {
   border-radius: 20px;
 }
 
+.avatar-box .display-picture{
+  border-radius: 20px;
+}
+
 .info-content .name {
   color: var(--white-2);
-  font-size: var(--fs-3);
+  font-size: var(--fs-2);
   font-weight: var(--fw-500);
   letter-spacing: -0.25px;
   margin-bottom: 10px;
